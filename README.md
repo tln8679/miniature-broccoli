@@ -1,2 +1,2 @@
 # miniature-broccoli
-Matrix object class for CSC 331.
+A matrix class that creates a matrix objects and does basic matrix math and operations.
