@@ -4,6 +4,9 @@ import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+* @author Taylor Noble
+*/
 public class Matrix {
 	private double [][] data;
 	private int numRows;
